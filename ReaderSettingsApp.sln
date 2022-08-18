@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderSettingsApp", "ReaderSettingsApp.csproj", "{8C069C6E-DAA5-4747-A5A3-0E506A2792F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C069C6E-DAA5-4747-A5A3-0E506A2792F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C069C6E-DAA5-4747-A5A3-0E506A2792F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C069C6E-DAA5-4747-A5A3-0E506A2792F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C069C6E-DAA5-4747-A5A3-0E506A2792F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5BA21A-0D51-4DD7-927C-6BD44CBC9902}
+	EndGlobalSection
+EndGlobal
